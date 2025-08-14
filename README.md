@@ -1,4 +1,4 @@
-﻿# Looper-For-Youtube
+﻿# Youtube TimeStamp Player
 ### Dependencies
 - No external dependencies required
 - Pure HTML, CSS, and JavaScript
@@ -62,3 +62,4 @@ We welcome contributions! Here's how you can help:
 **Made with ❤️ for YouTube enthusiasts**
 
 *Enjoy looping your favorite moments!*
+
