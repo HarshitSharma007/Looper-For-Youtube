@@ -1,4 +1,8 @@
-﻿# Youtube TimeStamp Player
+﻿# Looper For Youtube 
+<img width="379" height="438" alt="image" src="https://github.com/user-attachments/assets/e2a33315-3396-4324-bb68-d7d689bafc5c" />
+
+
+
 ### Dependencies
 - No external dependencies required
 - Pure HTML, CSS, and JavaScript
@@ -55,11 +59,10 @@ We welcome contributions! Here's how you can help:
 3. Load the extension in Chrome (Developer mode)
 4. Test on YouTube videos
 5. Submit your improvements
-
-
 ---
 
 **Made with ❤️ for YouTube enthusiasts**
 
 *Enjoy looping your favorite moments!*
+
 
