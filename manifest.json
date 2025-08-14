@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Timestamp Player",
+  "version": "1.0",
+  "description": "Play YouTube videos from specific timestamps only.",
+  "permissions": ["scripting", "tabs"],
+  "host_permissions": ["https://www.youtube.com/*"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
